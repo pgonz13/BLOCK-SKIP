@@ -5,9 +5,9 @@ This game has been develop with P5.js (for graphics), Tone.js (for sound) and Ar
 
 ![Spelunky](/docs/assets/playersprite.png)
 
-### Markdown
+### Narrative Description Of The Project
 
-Here's the JavaScript code for the skeleton of the game.
+
 
 ```markdown
 
