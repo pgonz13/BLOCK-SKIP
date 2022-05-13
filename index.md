@@ -3,6 +3,8 @@
 This project was born of an idea to create a game based on Mario Bros mechanics combined with Spelunky characters.
 This game has been develop with P5.js (for graphics), Tone.js (for sound) and Arduino (for hardware).
 
+![Spelunky](/docs/assets/playersprite.png)
+
 ### Markdown
 
 Here's the JavaScript code for the skeleton of the game.
@@ -11,7 +13,7 @@ Here's the JavaScript code for the skeleton of the game.
 
 ```
 
-[Here you can download a ZIP file](https://github.com/pgonz13/Block-Skip/blob/main/PDM%20Final%20Project.zip) with all the files required to test the game locally on your computer.
+[Here you can download a ZIP file](https://github.com/pgonz13/Block-Skip/blob/gh-pages/docs/assets/PDM%20Final%20Project.zip) with all the files required to test the game locally on your computer.
 
 
 
