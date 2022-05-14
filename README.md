@@ -1,2 +1,2 @@
 # Block-Skip
-This is the webpage for the documentation for Block Skip game.
+This is the webpage for the documentation of Block Skip game.
