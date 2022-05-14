@@ -51,7 +51,10 @@ Here are some screenshots from Block Skip's gameplay!.
 
 ### Gameplay
 
-![gameplay](/docs/assets/gameplayvideo.mp4)
+
+https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-8aab-ac30659a62e2.mp4
+
+
 
 
 ### Schematics & Diagrams
