@@ -4,6 +4,7 @@
 This project was born of an idea to create a game based on Mario Bros mechanics combined with Spelunky characters.
 This game has been develop with P5.js (for graphics), Tone.js (for sound) and Arduino (for hardware).
 
+<br>
 
 ### Description Of The Project
 The developing of this game has been divides into 3 phases:
@@ -21,6 +22,7 @@ The developing of this game has been divides into 3 phases:
 
     In this final phase, the game is tested implementing all the codes and hardware at the same time. Final adjustements were made here to make the perfect final version.
 
+<br>
 
 ### Images
 
@@ -46,8 +48,7 @@ Here are some screenshots from Block Skip's gameplay!.
 
 *Game Over Screen*
 
-
-
+<br>
 
 ### Gameplay
 
@@ -56,8 +57,7 @@ Here you got a little gameplay of Block Skip!.
 <video src="https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-8aab-ac30659a62e2.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-
-
+<br>
 
 ### Schematics & Diagrams
 
@@ -65,13 +65,13 @@ Here's a schematic for the hardware controller of the game.
 
 ![schematic](/docs/assets/schematic.JPG)
 
-
+<br>
 
 ### Future Development
 
 *Block Skip!* has a lot to improve for the future!. Plenty of things could still be developed: new characters, air blocks, air platforms, extra objects (like coins, power-ups, enemies, etc.), multiplayer mode and so on!. As the game gets more complex, more resources will be required, like more hardware pieces, extra code scripts, new media files... But that's what a good game needs!. Hope *Block Skip!* can be fully developed one day and be released worldwide.
 
-
+<br>
 
 ### Bonus!
 
