@@ -1,12 +1,25 @@
-## Project Outline
-
+### Project Outline
 This project was born of an idea to create a game based on Mario Bros mechanics combined with Spelunky characters.
 This game has been develop with P5.js (for graphics), Tone.js (for sound) and Arduino (for hardware).
 
+
 ![Spelunky](/docs/assets/playersprite.png)
 
-### Narrative Description Of The Project
+### Description Of The Project
+The developing of this game has been divides into 3 phases:
+  - Phase 1: Building the skeleton of the game with JavaScript.
+             In this phase graphics and sound are programmed with P5.js and Tone.js, 
+  - Phase 2: Programming in-game mechanics with Arduino.
+  - Phase 3: Combining both Arduino and JavaScript to make the game work as wanted.
 
+
+### Images
+
+### Gameplay
+
+### Schematics & Diagrams
+
+### Future Development
 
 
 ```markdown
