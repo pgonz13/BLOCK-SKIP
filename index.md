@@ -51,6 +51,8 @@ Here are some screenshots from Block Skip's gameplay!.
 
 ### Gameplay
 
+Here you got a little gameplay of Block Skip!.
+
 
 https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-8aab-ac30659a62e2.mp4
 
@@ -59,24 +61,24 @@ https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-
 
 ### Schematics & Diagrams
 
+Here's a schematic for the hardware controller of the game.
+
+![schematic](/docs/assets/schematic.JPG)
+
+
+
 ### Future Development
 
+*Block Skip!* has a lot to improve for the future!. Plenty of things could still be developed: new characters, air blocks, air platforms, extra objects (like coins, power-ups, enemies, etc.), multiplayer mode and so on!. As the game gets more complex, more resources will be required, like more hardware pieces, extra code scripts, new media files... But that's what a good game needs!. Hope *Block Skip!* can be fully developed one day and be released worldwide.
 
-```markdown
 
-```
+
+### Bonus!
 
 [Here you can download a ZIP file](https://github.com/pgonz13/Block-Skip/blob/gh-pages/docs/assets/PDM%20Final%20Project.zip) with all the files required to test the game locally on your computer.
 
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pgonz13/Block-Skip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+And [here's the YouTube video](https://www.youtube.com/watch?v=lngwfhMsETw) for the project full demostration.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with *Block Skip!*? Contact me on [pgonz13@lsu.edu](https://outlook.office.com/mail/).
