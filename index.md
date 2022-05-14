@@ -1,19 +1,43 @@
+![Spelunky](/docs/assets/playersprite.png)
+
 ### Project Outline
 This project was born of an idea to create a game based on Mario Bros mechanics combined with Spelunky characters.
 This game has been develop with P5.js (for graphics), Tone.js (for sound) and Arduino (for hardware).
 
 
-![Spelunky](/docs/assets/playersprite.png)
-
 ### Description Of The Project
 The developing of this game has been divides into 3 phases:
-  - Phase 1: Building the skeleton of the game with JavaScript.
-             In this phase graphics and sound are programmed with P5.js and Tone.js, 
-  - Phase 2: Programming in-game mechanics with Arduino.
-  - Phase 3: Combining both Arduino and JavaScript to make the game work as wanted.
+  - **Phase 1: Building the skeleton of the game with JavaScript.**
+  
+    In this phase graphics and sound are programmed with P5.js and Tone.js, and game is tested with no hardware (just with the keyboard).
+    
+
+  - **Phase 2: Programming in-game mechanics with Arduino + building the hardware**.
+
+    Now the game mechanics are programmed with Arduino, so the game can be played with a hardware "device".
+    
+    
+  - **Phase 3: Combining both Arduino and JavaScript to make the game work as wanted.**
+
+    In this final phase, the game is tested implementing all the codes and hardware at the same time. Final adjustements were made here to make the perfect final version.
 
 
 ### Images
+
+Here are some screenshots from Block Skip's gameplay!.
+
+![menu](/docs/assets/introscreen.png)
+*Menu Screen*
+
+![ingame](/docs/assets/gameplayscreen.png)
+*In-game Screen*
+
+![win](/docs/assets/winnerscreen.png)
+*Winning Screen*
+
+![gameover](/docs/assets/gameoverscreen.png)
+*Game Over Screen*
+
 
 ### Gameplay
 
