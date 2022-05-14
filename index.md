@@ -26,18 +26,33 @@ The developing of this game has been divides into 3 phases:
 
 Here are some screenshots from Block Skip's gameplay!.
 
-![menu](/docs/assets/introscreen.JPG)         ![ingame](/docs/assets/gameplayscreen.JPG)
+![menu](/docs/assets/introscreen.JPG)
 
-*Menu and In-game Screens*
+*Menu Screen*
+
+
+![ingame](/docs/assets/gameplayscreen.JPG)
+
+*In-game Screen*
 
 
 
-![win](/docs/assets/winnerscreen.JPG)         ![gameover](/docs/assets/gameoverscreen.JPG)
+![win](/docs/assets/winnerscreen.JPG)
 
-*Winning and Game Over Screens*
+*Winning Screen*
+
+
+![gameover](/docs/assets/gameoverscreen.JPG)
+
+*Game Over Screen*
+
+
 
 
 ### Gameplay
+
+![gameplay](/docs/assets/gameplayvideo.mp4)
+
 
 ### Schematics & Diagrams
 
