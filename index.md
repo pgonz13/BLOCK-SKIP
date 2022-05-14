@@ -79,6 +79,8 @@ Here's a schematic for the hardware controller of the game.
 
 And [here's the YouTube video](https://www.youtube.com/watch?v=lngwfhMsETw) for the project full demostration.
 
+<br>
+
 ### Support or Contact
 
 Having trouble with *Block Skip!*? Contact me on [pgonz13@lsu.edu](https://outlook.office.com/mail/).
