@@ -53,8 +53,8 @@ Here are some screenshots from Block Skip's gameplay!.
 
 Here you got a little gameplay of Block Skip!.
 
-
-https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-8aab-ac30659a62e2.mp4
+<video src="https://user-images.githubusercontent.com/98426881/168406889-f0522d32-e9ff-4dad-8aab-ac30659a62e2.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 
 
